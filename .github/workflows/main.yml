@@ -33,4 +33,4 @@ jobs:
         
       - name: Forma code with Python Black
         run: |
-          make balck
+          make black
