@@ -31,6 +31,6 @@ jobs:
         run: |
           make test
         
-      - name: Forma code with Python Black
+      - name: Format code with Python Black
         run: |
-          make black
+          make format
